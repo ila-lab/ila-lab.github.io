@@ -1,0 +1,77 @@
+{
+  "site_title": "CGU ILALab",
+  "nav": {
+    "about": "About Us",
+    "research": "Research",
+    "team": "Members",
+    "pub": "Publications",
+    "contact": "Contact"
+  },
+  "home": {
+    "name": "Welcome to CGU ILA Lab",
+    "button": "Learn More"
+  },
+  "about": {
+    "header": "About",
+    "title": "Intelligent Language Algorithms Laboratory",
+    "description1": "The Intelligent Language Algorithms Laboratory (ILA Lab) is part of the Department of Artificial Intelligence at Chang Gung University, established in February 2025. As a young and dynamic research team, we are dedicated to cutting-edge research in natural language processing (NLP) and publishing in top-tier venues.",
+    "description2": "Our research combines deep neural networks and large language models, in close collaboration with Linkou Chang Gung Memorial Hospital and National Yang Ming Chiao Tung University, aiming to tackle complex problems from an interdisciplinary perspective."
+  },
+  "research": {
+    "header": "Research Directions",
+    "nlp": "Natural Language Processing",
+    "llm": "Large Language Models",
+    "mednlp": "Medical NLP"
+  },
+  "team": {
+    "header": "Members",
+    "PI": "Ying-Jia Lin",
+    "PI_pos": "Assistant Professor / PI",
+    "PI_page": "🏠Personal Website",
+    "member1": "Yen-Kai Chang",
+    "member1_title": "Undergraduate / Dept. of BS, CGU",
+    "member2": "Chien-Feng Wu",
+    "member2_title": "Undergraduate / Dept. of Medicine, CGU",
+    "member3": "Yi-Hui Yeh",
+    "member3_title": "Undergraduate / Dept. of AI, CGU",
+    "member4": "Yung-En Cho",
+    "member4_title": "Undergraduate / Dept. of AI, CGU",
+    "member5": "Hung-Yi Chang",
+    "member6_title": "Undergraduate / Dept. of AI, CGU",
+    "member6": "Chi-Wen Su",
+    "member7_title": "Undergraduate / Dept. of AI, CGU",
+    "member7": "Chao-Hao Liang",
+    "member5_title": "Undergraduate / Dept. of AI, CGU",
+    "member8": "Wen-Ling Chang",
+    "member8_title": "Undergraduate / Dept. of AI, CGU"
+  },
+  "publications": {
+    "header": "Publications",
+    "journal_papers": "Journal Papers",
+    "conference_papers": "Conference Papers"
+  },
+  "contact": {
+    "header": "Contact Us",
+    "addr_name": "Address",
+    "school": "Department of Artificial Intelligence, Chang Gung University",
+    "office": "B1412, Management Building (14-th floor)",
+    "address": "No 259, Wenhua 1st Rd, Guishan Dist, Taoyuan City 33302, Taiwan.",
+    "email_name": "Email",
+    "phone_name": "Phone Number"
+  },
+  "links": {
+    "quick_links": "Quick Links",
+    "about": "About Us",
+    "research": "Research",
+    "team": "Members",
+    "pub": "Publications",
+    "contact": "Contact",
+    "resources": "Resources",
+    "uni_web": "CGU Website",
+    "dept_web": "CGU AI Website",
+    "academics": "ACL 2024"
+  },
+  "copyright": {
+    "owner": "2025 Copyright © Intelligent Language Algorithms Laboratory"
+  }
+}
